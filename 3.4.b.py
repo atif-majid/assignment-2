@@ -1,3 +1,7 @@
+'''
+b) Write a program that estimates the value of the mathematical constant e by using the formula
+e = 1 + 1/1!+ 1/2!+ 1/3!+....
+'''
 e = 1
 for i in range (1, 10):
 	fact = 1
